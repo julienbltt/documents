@@ -417,17 +417,17 @@ $ hexdump -C bonjour_latin1.txt
 00000020 3a 35 31 0a |:51.|
 ```
 
-Question 21. Que se passe-t-il lors de l’affichage du fichier avec la commande cat?
+Question 20. Que se passe-t-il lors de l’affichage du fichier avec la commande cat?
 
-Question 22. À partir de l’affichage fourni par la commande hexdump, donnez la valeur qui encode le caractère ’à’ en ISO8859-1.
+Question 21. À partir de l’affichage fourni par la commande hexdump, donnez la valeur qui encode le caractère ’à’ en ISO8859-1.
 
-Question 23. Correspond-elle à la valeur trouvée précédemment lors de l’assemblage réalisé en UTF-8?
+Question 22. Correspond-elle à la valeur trouvée précédemment lors de l’assemblage réalisé en UTF-8?
 
 La commande iconv -l permet de lister l’ensemble des jeux codes connus et supportés.
 
-Question 24. Donnez alors la ligne de commande permettant de fournir (approximativement, c’est-à-dire sans tenir compte des alias) le nombre de jeux codes connus et supportés par la commande iconv.
+Question 23. Donnez alors la ligne de commande permettant de fournir (approximativement, c’est-à-dire sans tenir compte des alias) le nombre de jeux codes connus et supportés par la commande iconv.
 
-Question 25. Idem mais pour la commande recode.
+Question 24. Idem mais pour la commande recode.
 
 ## Bilan
 
